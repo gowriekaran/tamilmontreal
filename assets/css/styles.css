@@ -16,3 +16,7 @@
         padding-left: 20px;
     }
 }
+
+.navbar-toggler-icon:focus {
+    outline: none !important;
+}
