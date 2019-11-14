@@ -8,4 +8,7 @@ $(document).ready(function () {
         $(".nav-link").removeClass("active");
         $(this).addClass("active");
     });
+
+    //Idea: to make this automatic
+    // $("#autoUpdate").text("Last updated 1 hour ago");
 });
